@@ -7,11 +7,12 @@ I have created a folder named ImagesAttendance which stores the data of the atte
 and a picture of my little cousin Anam Fatima who was too fascinated to be recognised by a computer.
 The file named "Requirements.txt" contains all the tech used and their respective versions too.
 The main dependencies used are:
-"*"Flask
-"*"OpenCV
-"*"facial_recognition
-"*"facial_recognition_models (Which is internally used by facial_recognition)
-"*"dlib (Internally used by facial_recognition
+* Flask
+* OpenCV
+* Facial_recognition
+* Facial_recognition_models (Which is internally used by facial_recognition)
+* Dlib (Internally used by facial_recognition
+
 * For integrating my work into into a webpage format *GUI based version of pyinstaller (Known as auto-py-to-exe) Or simply pyinstaller
 * was used 
 
