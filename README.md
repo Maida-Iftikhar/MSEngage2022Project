@@ -13,7 +13,7 @@ The main dependencies used are:
 * Facial_recognition_models (Which is internally used by facial_recognition)
 * Dlib (Internally used by facial_recognition
 
-* For integrating my work into into a webpage format *GUI based version of pyinstaller (Known as auto-py-to-exe) Or simply pyinstaller
+**For integrating my work into into a webpage format *GUI based version of pyinstaller (Known as auto-py-to-exe) Or simply pyinstaller
 * was used 
 
 
