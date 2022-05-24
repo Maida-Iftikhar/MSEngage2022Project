@@ -20,5 +20,9 @@ The main dependencies used are:
 3. Extract it and you will see a folder app inside extracted folder.In that app folder you will find app.exe file
 4. Run it
 5. Wait for the output text in the app console And then in the console it will show you to open localhost:5000/
+
+
+
+
 **Note: You always requested to execute the app.exe inside the app folder only because all the dependencies of that app.exe are in that folder. So no shortcuts
 would work.
