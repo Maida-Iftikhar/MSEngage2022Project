@@ -1,6 +1,6 @@
 # MSEngage2022Project
 *Introduction⭐
-*This is a facial recognition based attendance system. It is majorly coded in Python, OpenCv. It works by recognising the faces and storing them into a .csv file. 
+** This is a facial recognition based attendance system. It is majorly coded in Python, OpenCv. It works by recognising the faces and storing them into a .csv file. 
 The real time of attendance is recorded as well, making it an efficient alternataive for regular attendances in the schools , offices or other institues. 
 For this project,
 I have created a folder named ImagesAttendance which stores the data of the attendees. I have stored the images of Elon Musk, Jack Ma, Mark Zuckerberg, JK Rowling 
