@@ -12,9 +12,13 @@ The main dependencies used are:
 * Facial_recognition
 * Facial_recognition_models (Which is internally used by facial_recognition)
 * Dlib (Internally used by facial_recognition
+*For ipackaging the app *GUI based version of pyinstaller (Known as auto-py-to-exe) Or simply pyinstaller was used 
 
-*For integrating my work into into a webpage format *GUI based version of pyinstaller (Known as auto-py-to-exe) Or simply pyinstaller was used 
-
-
+* Instructions to run it:
+1. Here's the Google drive link
+2. Then click download all. It will download a zip
+3. Extract it and you will see a folder app inside extracted folder.In that app folder you will find app.exe file
+4. Run it
+5. Wait for the output text in the app console And then in the console it will show you to open localhost:5000/
 **Note: You always requested to execute the app.exe inside the app folder only because all the dependencies of that app.exe are in that folder. So no shortcuts
 would work.
