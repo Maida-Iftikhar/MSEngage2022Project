@@ -23,6 +23,13 @@ The main dependencies used are:
 
 
 
-
 **Note: You always requested to execute the app.exe inside the app folder only because all the dependencies of that app.exe are in that folder. So no shortcuts
 would work.
+
+*On the web page, you could use images of 'Elon Musk', 'Jack Ma', 'Jk Rowlings' and 'Mark Zuckerberg' as these are the stored images in the current database. You
+can further clear the attendance to mark new ones. 
+
+
+
+
+
