@@ -16,10 +16,10 @@ The main dependencies used are:
 
 * Instructions to run it:
 1. Here's the Google drive link. (https://drive.google.com/drive/folders/1VIRzIYNrVgvmRkPKOzIUIo_SdMXIi6-r?usp=sharing)
-2. Then click download all. It will download a zip
-3. Extract it and you will see a folder app inside extracted folder.In that app folder you will find app.exe file
-4. Run it
-5. Wait for the output text in the app console And then in the console it will show you to open localhost:5000/
+2. Now click download all. It will download a zip
+3. Extract it and you will see a folder named "app" .In that app folder you will find app.exe file
+5. Run it
+6. Wait for the output text in the app console And then in the console it will show you to open localhost:5000/
 
 
 
