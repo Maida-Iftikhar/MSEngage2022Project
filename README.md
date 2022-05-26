@@ -18,9 +18,10 @@ The main dependencies used are:
 1. Here's the Google drive link. (https://drive.google.com/drive/folders/1VIRzIYNrVgvmRkPKOzIUIo_SdMXIi6-r?usp=sharing).
 
 
+[* I have also created a seperate repo for my app https://github.com/Maida-Iftikhar/facial_reco_attend_application.git. However, due to large size, it might be difficult to clone the repo and then run it. It is therfore advised to use the Drive link for a smooth experience.]
 
 
- [* I have also created a seperate repo for my app https://github.com/Maida-Iftikhar/facial_reco_attend_application.git. However, due to large size, it might be difficult to clone the repo and then run it. It is therfore advised to use the Drive link for a smooth experience.]
+
 2. Now click download all. It will download a zip
 3. Extract it and you will see a folder named "app" .In that app folder you will find app.exe file
 4. Run it
