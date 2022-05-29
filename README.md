@@ -7,7 +7,10 @@ For this project,
 I have created a folder named ImagesAttendance which stores the data of the attendees. I have stored the images of Elon Musk, Jack Ma, Mark Zuckerberg, JK Rowling 
 The file named "Requirements.txt" contains all the tech used and their respective versions too.
 The main dependencies used are:
-* Flask
+* FastApi
+* Hypercorn
+* JavaScript
+* SQLite
 * OpenCV
 * Facial_recognition
 * Facial_recognition_models (Which is internally used by facial_recognition)
