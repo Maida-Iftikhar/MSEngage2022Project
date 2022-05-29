@@ -4,7 +4,6 @@
 The real time of attendance is recorded as well, making it an efficient alternataive for regular attendances in the schools , offices or other institues. 
 For this project,
 I have created a folder named ImagesAttendance which stores the data of the attendees. I have stored the images of Elon Musk, Jack Ma, Mark Zuckerberg, JK Rowling 
-and a picture of my little cousin Anam Fatima who was too fascinated to be recognised by a computer.
 The file named "Requirements.txt" contains all the tech used and their respective versions too.
 The main dependencies used are:
 * Flask
